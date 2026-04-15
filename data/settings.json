@@ -1,0 +1,5 @@
+{
+  "alertDays": 10,
+  "emailEnabled": true,
+  "emailRecipients": []
+}
