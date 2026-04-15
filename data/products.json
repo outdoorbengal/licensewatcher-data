@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "name": "Calming Sticks",
+    "type": "Cat Supplement",
+    "description": "Calming Sticks",
+    "states": [
+      "AL",
+      "AK",
+      "AZ",
+      "AR",
+      "CA",
+      "CO",
+      "CT",
+      "FL",
+      "GA",
+      "NY",
+      "TX",
+      "OH",
+      "PA",
+      "IL",
+      "NC",
+      "WA",
+      "OR",
+      "MI",
+      "NJ",
+      "VA"
+    ],
+    "createdAt": "2026-04-15"
+  }
+]
