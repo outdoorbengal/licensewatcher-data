@@ -4,611 +4,1009 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "License fee annual; $0.25/ton; $50-$100/brand ≤10lb",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Guaranteed Analysis",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jan 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Quarterly"
   },
   "AK": {
     "name": "Alaska",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "45-60 days",
+    "fees": "Contact state",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork"
+    ],
+    "notes": "Contact AK Dept of Environmental Conservation",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "None"
   },
   "AZ": {
     "name": "Arizona",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$10 license/plant; $0.20/ton",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jul 1. $2/quarter min",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Quarterly"
   },
   "AR": {
     "name": "Arkansas",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "20-30 days",
+    "fees": "$10 license; $0.30/ton",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jan 1. $10/quarter min",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Quarterly"
   },
   "CA": {
     "name": "California",
     "contact": "",
-    "email": "",
-    "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "email": "fdbinfo@cdph.ca.gov",
+    "phone": "(916) 900-5022",
+    "processingTime": "60-90 days",
+    "fees": "$500/license/location/yr; $0.15/ton max; pet food via CDPH",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Guaranteed Analysis",
+      "Tonnage Report",
+      "AAFCO Compliance"
+    ],
+    "notes": "Pet food regulated by CA Dept of Public Health. Renewal Jul 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Quarterly"
   },
   "CO": {
     "name": "Colorado",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$75/company; $0.05/ton; $25/product ≤10lb",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork",
+      "Guaranteed Analysis",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Feb 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Annual"
   },
   "CT": {
     "name": "Connecticut",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$80/product",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork"
+    ],
+    "notes": "Renewal Jan 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "None"
   },
   "DE": {
     "name": "Delaware",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$23/product; $100/pet food (2025+)",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork"
+    ],
+    "notes": "Renewal Jan 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "None"
   },
   "FL": {
     "name": "Florida",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-60 days",
+    "fees": "$40-$3500 master reg based on tonnage",
+    "requirements": [
+      "Master Registration",
+      "Label/Artwork",
+      "Guaranteed Analysis",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jul 1. Quarterly tonnage enforced",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Quarterly"
   },
   "GA": {
     "name": "Georgia",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
-    "registrationFormUrl": "",
-    "deadlines": []
+    "processingTime": "30-45 days",
+    "fees": "$75-$2000 based on tons; $40/pet food ≤10lb",
+    "requirements": [
+      "Feed License",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jan 1. $2000 cap",
+    "registrationFormUrl": "https://agr.georgia.gov/feed-licenses-and-product-registrations",
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "None"
   },
   "HI": {
     "name": "Hawaii",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$30 permanent; $0.40/ton mixed; $0.20/ton other",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Permanent license",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Permanent",
+    "tonnageFrequency": "Quarterly"
   },
   "ID": {
     "name": "Idaho",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$40/product",
+    "requirements": [
+      "Product Registration",
+      "Label/Artwork"
+    ],
+    "notes": "Renewal Oct 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "None"
   },
   "IL": {
     "name": "Illinois",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$30 facility license; $90/pet food; $0.30/ton",
+    "requirements": [
+      "Facility License",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jan 1. $25 min semiannual",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Semiannual"
   },
   "IN": {
     "name": "Indiana",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$50/firm; $50/pet food ≤10lb; $0.40/ton",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jan 1. $5 min quarterly",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Quarterly"
   },
   "IA": {
     "name": "Iowa",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$20 biennial license; $50/pet food ≤10lb; $0.12/ton",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "License Jul 1. Product Jan 1. $20 min",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Biennial",
+    "tonnageFrequency": "Semiannual"
   },
   "KS": {
     "name": "Kansas",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$10 license; $25/pet food ≤10lb; $0.09/ton",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jul 1. $15 min semiannual",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Semiannual"
   },
   "KY": {
     "name": "Kentucky",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": ">10lb: none; ≤10lb: $50/product; $0.35/ton",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Permanent for >10lb. ≤10lb renewal Jul 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Permanent/Annual",
+    "tonnageFrequency": "Quarterly"
   },
   "LA": {
     "name": "Louisiana",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$40/firm; $6-$10/label; $1/ton; $200/≤10lb",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jul 1. $10/quarter min",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Quarterly"
   },
   "ME": {
     "name": "Maine",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$80 license; $100/pet food",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork"
+    ],
+    "notes": "Renewal Jan 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "None"
   },
   "MD": {
     "name": "Maryland",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$50/product",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork"
+    ],
+    "notes": "Renewal May 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "None"
   },
   "MA": {
     "name": "Massachusetts",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
-    "registrationFormUrl": "",
-    "deadlines": []
+    "processingTime": "30-45 days",
+    "fees": "$100/product; $25 late fee",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork"
+    ],
+    "notes": "Renewal Jan 1. Labels required. Check only",
+    "registrationFormUrl": "https://www.mass.gov/how-to/commercial-feed-pet-food-registration",
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "None"
   },
   "MI": {
     "name": "Michigan",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$100 license; $0.30/ton; $50 min/yr",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jul 1. $25 license if ≤5lb only",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Annual"
   },
   "MN": {
     "name": "Minnesota",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$75 license; $0.16/ton or $75 min; $100/pet food ≤10lb",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "License Jan 1. Product Jul 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Annual"
   },
   "MS": {
     "name": "Mississippi",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$100 facility; $0.25/ton >10lb; $25/brand ≤10lb",
+    "requirements": [
+      "Facility Registration",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Dec 1. $20/yr min",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Annual"
   },
   "MO": {
     "name": "Missouri",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$35/license; $0.14/ton; $90/pet food ≤10lb",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jul 1. $5/quarter min",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Quarterly"
   },
   "MT": {
     "name": "Montana",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$100 new/$75 renewal; $50/pet food; $0.18/ton",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jan 1. $25 late fee",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Annual"
   },
   "NE": {
     "name": "Nebraska",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$15/facility; $0.065/ton; $25/≤10lb",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jan 1. $5 min semiannual",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Semiannual"
   },
   "NV": {
     "name": "Nevada",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$75/license; $0.15/ton or $5/quarter min",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jan 1. $20/yr min",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Quarterly"
   },
   "NH": {
     "name": "New Hampshire",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$75/product",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork"
+    ],
+    "notes": "Renewal Jan 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "None"
   },
   "NJ": {
     "name": "New Jersey",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$250/facility license; $0.30/ton; $250 min/yr",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jan 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Annual"
   },
   "NM": {
     "name": "New Mexico",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
-    "registrationFormUrl": "",
-    "deadlines": []
+    "processingTime": "30-45 days",
+    "fees": "$2/product + $25/≤10lb + $100/pet food; $0.15/ton",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jan 1",
+    "registrationFormUrl": "https://nmdeptag.nmsu.edu/licensing-and-registrations/commercial-feed-registration.html",
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Quarterly"
   },
   "NY": {
     "name": "New York",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
-    "registrationFormUrl": "",
-    "deadlines": []
+    "processingTime": "45-60 days",
+    "fees": "$100/brand pet food; $100/facility; $0.10/≥100 tons",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork",
+      "Guaranteed Analysis",
+      "AAFCO Compliance"
+    ],
+    "notes": "Pet food Jan 1. Facility biennial Jul 1",
+    "registrationFormUrl": "https://agriculture.ny.gov/food-safety/pet-food",
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual/Biennial",
+    "tonnageFrequency": "Annual"
   },
   "NC": {
     "name": "North Carolina",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$5/>5lb; $40/≤5lb; $12/canned; $0.12/ton",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jan 1. $10 quarterly min",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Quarterly"
   },
   "ND": {
     "name": "North Dakota",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$120 new/$100 renewal biennial; $0.20/ton",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Biennial Jan 1. $10 min",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Biennial",
+    "tonnageFrequency": "Annual"
   },
   "OH": {
     "name": "Ohio",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "Permanent reg; $0.25/ton",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Permanent registration. $25 min semiannual",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Permanent",
+    "tonnageFrequency": "Semiannual"
   },
   "OK": {
     "name": "Oklahoma",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$50 license; $0.15/ton",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jul 1. $10 min semiannual",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Semiannual"
   },
   "OR": {
     "name": "Oregon",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$150-$750 license; $40/product (most dog/cat exempt)",
+    "requirements": [
+      "License Application",
+      "Label/Artwork"
+    ],
+    "notes": "Renewal Jan 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "None"
   },
   "PA": {
     "name": "Pennsylvania",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$25/license; $0.10/ton; $25 min/yr",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jan 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Annual"
   },
   "RI": {
     "name": "Rhode Island",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$60/product",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork"
+    ],
+    "notes": "Renewal Jan 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "None"
   },
   "SC": {
     "name": "South Carolina",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$20/product; $10 late fee",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork"
+    ],
+    "notes": "Renewal Jan 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "None"
   },
   "SD": {
     "name": "South Dakota",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$50 biennial; $0.10/ton; $99/pet product",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Biennial Jan 1. $20/report min",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Biennial",
+    "tonnageFrequency": "Annual"
   },
   "TN": {
     "name": "Tennessee",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$50 min/facility based on tonnage",
+    "requirements": [
+      "License Application",
+      "Label/Artwork"
+    ],
+    "notes": "Renewal Jul 1. Fee=(tons/350)*$50",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "None"
   },
   "TX": {
     "name": "Texas",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$75/facility permanent; $50/≤5lb; $0.19/ton",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Permanent license. Product Sep 1. $100 min annual",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Permanent/Annual",
+    "tonnageFrequency": "Quarterly/Annual"
   },
   "UT": {
     "name": "Utah",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$60/product/yr; $75 blender license",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork"
+    ],
+    "notes": "Renewal Jan 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "None"
   },
   "VT": {
     "name": "Vermont",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$105/feed product; $35/dosage form",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork"
+    ],
+    "notes": "Renewal Apr 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "None"
   },
   "VA": {
     "name": "Virginia",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$50 license/facility; $0.07/ton; $50/brand ≤10lb",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Jan 1. $35/yr min",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Annual"
   },
   "WA": {
     "name": "Washington",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$50 license; $90/pet food <10lb; $22/>10lb; $0.12/ton",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "License Jul 1. Product biennial. $25/yr min",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual/Biennial",
+    "tonnageFrequency": "Semiannual"
   },
   "WV": {
     "name": "West Virginia",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$500 guarantor; $100/>10lb; $75/≤10lb; $0.35/ton",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "License Dec 31. Product Aug 31. $25 min",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Semiannual"
   },
   "WI": {
     "name": "Wisconsin",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$25/facility; $0.25/ton; $50 min",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Renewal Feb 28. $50/yr min",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "Annual"
   },
   "WY": {
     "name": "Wyoming",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$40/product",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork"
+    ],
+    "notes": "Renewal Jan 1",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "None"
   },
   "DC": {
     "name": "District of Columbia",
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "Contact DC for fees",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork"
+    ],
+    "notes": "Contact DC Dept of Health",
     "registrationFormUrl": "",
-    "deadlines": []
+    "deadlines": [],
+    "tonnageDeadline": "",
+    "renewalDeadline": "",
+    "renewalPeriod": "Annual",
+    "tonnageFrequency": "None"
   }
 }
