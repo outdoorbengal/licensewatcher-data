@@ -1,15 +1,18 @@
 {
   "AL": {
     "name": "Alabama",
-    "contact": "",
-    "email": "",
-    "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
+    "contact": "Jhon",
+    "email": "albert@outdoorbengal.com",
+    "phone": "9735257801",
+    "processingTime": "30",
+    "fees": "200",
+    "requirements": [
+      "Label",
+      "Guaranteed Analysis"
+    ],
     "notes": "",
-    "registrationFormUrl": "",
-    "tonnageDeadline": "",
+    "registrationFormUrl": "dsfasdfasdf.pdf",
+    "tonnageDeadline": "January 1",
     "renewalDeadline": ""
   },
   "AK": {
