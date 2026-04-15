@@ -1,1 +1,607 @@
-[]
+[
+  {
+    "id": "reg_1776278835923_0",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "AL",
+    "stateName": "Alabama",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 3,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Guaranteed Analysis",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_1",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "AK",
+    "stateName": "Alaska",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 3,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "FDA Approval",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "State Registration Form",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Clinical Data",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_2",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "AZ",
+    "stateName": "Arizona",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 3,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_3",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "AR",
+    "stateName": "Arkansas",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 2,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_4",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "CA",
+    "stateName": "California",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 5,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "FDA Approval",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Guaranteed Analysis",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "AAFCO Compliance",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_5",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "CO",
+    "stateName": "Colorado",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 3,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Guaranteed Analysis",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_6",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "CT",
+    "stateName": "Connecticut",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 3,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_7",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "FL",
+    "stateName": "Florida",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "FDA Approval",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Guaranteed Analysis",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_8",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "GA",
+    "stateName": "Georgia",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 3,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_9",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "NY",
+    "stateName": "New York",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Guaranteed Analysis",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "AAFCO Compliance",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_10",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "TX",
+    "stateName": "Texas",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Guaranteed Analysis",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_11",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "OH",
+    "stateName": "Ohio",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 2,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_12",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "PA",
+    "stateName": "Pennsylvania",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 3,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Guaranteed Analysis",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_13",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "IL",
+    "stateName": "Illinois",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 3,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_14",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "NC",
+    "stateName": "North Carolina",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 3,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Guaranteed Analysis",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_15",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "WA",
+    "stateName": "Washington",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 3,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Guaranteed Analysis",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_16",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "OR",
+    "stateName": "Oregon",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 2,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_17",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "MI",
+    "stateName": "Michigan",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 3,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Guaranteed Analysis",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_18",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "NJ",
+    "stateName": "New Jersey",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 3,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  },
+  {
+    "id": "reg_1776278835924_19",
+    "productName": "Calming Sticks",
+    "productType": "Cat Supplement",
+    "state": "VA",
+    "stateName": "Virginia",
+    "status": "Pending",
+    "deadline": "2027-12-01",
+    "totalDocs": 2,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "Feed Registration Form",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "Calming Sticks",
+    "createdAt": "2026-04-15"
+  }
+]
