@@ -447,14 +447,15 @@
     "productType": "Cat Supplement",
     "state": "MD",
     "stateName": "Maryland",
-    "status": "Pending",
+    "status": "In Review",
     "deadline": "",
     "totalDocs": 0,
     "uploadedDocs": 0,
     "documents": [],
     "notes": "",
     "createdAt": "2026-04-16",
-    "approvals": {}
+    "approvals": {},
+    "lastActionDate": "2026-04-16"
   },
   {
     "id": "reg_1776354539368_20",
