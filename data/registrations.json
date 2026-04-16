@@ -6,29 +6,29 @@
     "state": "AL",
     "stateName": "Alabama",
     "status": "Pending",
-    "deadline": "",
+    "deadline": "2026-04-30",
     "totalDocs": 4,
-    "uploadedDocs": 0,
+    "uploadedDocs": 4,
     "documents": [
       {
         "name": "License Application",
-        "uploaded": false,
-        "file": null
+        "uploaded": true,
+        "file": "license_application.pdf"
       },
       {
         "name": "Label/Artwork",
-        "uploaded": false,
-        "file": null
+        "uploaded": true,
+        "file": "label/artwork.pdf"
       },
       {
         "name": "Guaranteed Analysis",
-        "uploaded": false,
-        "file": null
+        "uploaded": true,
+        "file": "guaranteed_analysis.pdf"
       },
       {
         "name": "Tonnage Report",
-        "uploaded": false,
-        "file": null
+        "uploaded": true,
+        "file": "tonnage_report.pdf"
       }
     ],
     "notes": "",
