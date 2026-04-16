@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "Calming Sticks",
+    "type": "Cat Supplement",
+    "description": "Placeholder - Test",
+    "labelFile": "OutdoorBengal · Orders · #6049 · Shopify.pdf",
+    "gaFile": "FN262289(USD)_OUTBL-26001-USDS (02464533).PDF",
+    "labelFilePath": "uploads/products/calming_sticks/label.pdf",
+    "gaFilePath": "uploads/products/calming_sticks/guaranteed_analysis.PDF",
+    "createdAt": "2026-04-16"
+  }
+]
