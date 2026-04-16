@@ -454,7 +454,14 @@
     "documents": [],
     "notes": "",
     "createdAt": "2026-04-16",
-    "approvals": {},
+    "approvals": {
+      "Registration Renewal_2026": {
+        "date": "2026-04-16",
+        "file": "",
+        "filePath": "",
+        "year": 2026
+      }
+    },
     "lastActionDate": "2026-04-16"
   },
   {
