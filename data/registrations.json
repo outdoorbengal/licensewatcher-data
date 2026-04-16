@@ -36,14 +36,15 @@
     "productType": "Cat Supplement",
     "state": "AZ",
     "stateName": "Arizona",
-    "status": "Pending",
+    "status": "Approved",
     "deadline": "",
     "totalDocs": 0,
     "uploadedDocs": 0,
     "documents": [],
     "notes": "",
     "createdAt": "2026-04-16",
-    "approvals": {}
+    "approvals": {},
+    "lastActionDate": "2026-04-16"
   },
   {
     "id": "reg_1776382051863_3",
