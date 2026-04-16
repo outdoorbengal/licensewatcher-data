@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "Calming Stick",
+    "type": "Cat Supplement",
+    "description": "",
+    "labelFile": "OutdoorBengal · Orders · #7081 · Shopify.pdf",
+    "gaFile": "FN262289(USD)_OUTBL-26001-USDS (02464533).PDF",
+    "labelFilePath": "uploads/products/calming_treats/label.pdf",
+    "gaFilePath": "uploads/products/calming_treats/guaranteed_analysis.PDF",
+    "createdAt": "2026-04-16"
+  }
+]
