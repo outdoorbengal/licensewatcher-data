@@ -4,13 +4,44 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
+    "processingTime": "30-45 days",
+    "fees": "$0.25/ton; $50-$100/brand ≤10lb",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Guaranteed Analysis",
+      "Tonnage Report"
+    ],
     "notes": "",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Q1",
+        "month": 3,
+        "day": 31
+      },
+      {
+        "title": "Tonnage Q2",
+        "month": 6,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q3",
+        "month": 9,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q4",
+        "month": 12,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -21,8 +52,8 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "45-60 days",
+    "fees": "Contact state",
     "requirements": [],
     "notes": "",
     "registrationFormUrl": "",
@@ -38,13 +69,43 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$10 license/plant; $0.20/ton",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "$2/quarter min",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 7,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Q1",
+        "month": 3,
+        "day": 31
+      },
+      {
+        "title": "Tonnage Q2",
+        "month": 6,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q3",
+        "month": 9,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q4",
+        "month": 12,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -55,13 +116,43 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "20-30 days",
+    "fees": "$10 license; $0.30/ton",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "$10/quarter min",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Q1",
+        "month": 3,
+        "day": 31
+      },
+      {
+        "title": "Tonnage Q2",
+        "month": 6,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q3",
+        "month": 9,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q4",
+        "month": 12,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -70,15 +161,47 @@
   "CA": {
     "name": "California",
     "contact": "",
-    "email": "",
-    "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "email": "fdbinfo@cdph.ca.gov",
+    "phone": "(916) 900-5022",
+    "processingTime": "60-90 days",
+    "fees": "$500/license/location/yr; $0.15/ton max",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Guaranteed Analysis",
+      "Tonnage Report",
+      "AAFCO Compliance"
+    ],
+    "notes": "Pet food via CA Dept of Public Health",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 7,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Q1",
+        "month": 3,
+        "day": 31
+      },
+      {
+        "title": "Tonnage Q2",
+        "month": 6,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q3",
+        "month": 9,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q4",
+        "month": 12,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -89,13 +212,24 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$75/company; $0.05/ton; $25/product ≤10lb",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "Annual tonnage",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Registration Renewal",
+        "month": 2,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Report",
+        "month": 1,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -106,13 +240,19 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$80/product",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "No tonnage",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Registration Renewal",
+        "month": 1,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -123,13 +263,19 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$23/product; $100/pet food (2025+)",
     "requirements": [],
     "notes": "",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Registration Renewal",
+        "month": 1,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -140,13 +286,44 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-60 days",
+    "fees": "$40-$3500 master reg based on tonnage",
+    "requirements": [
+      "Master Registration",
+      "Label/Artwork",
+      "Guaranteed Analysis",
+      "Tonnage Report"
+    ],
+    "notes": "Quarterly tonnage enforced",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Master Reg Renewal",
+        "month": 7,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Q1",
+        "month": 3,
+        "day": 31
+      },
+      {
+        "title": "Tonnage Q2",
+        "month": 6,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q3",
+        "month": 9,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q4",
+        "month": 12,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -157,13 +334,21 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
+    "processingTime": "30-45 days",
+    "fees": "$75-$2000 based on tons; $40/pet food ≤10lb",
+    "requirements": [
+      "https://agr.georgia.gov/feed-licenses-and-product-registrations"
+    ],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$2000 cap",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 1,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -174,13 +359,34 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$30 permanent; $0.40/ton mixed",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "Permanent license",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Tonnage Q1",
+        "month": 3,
+        "day": 31
+      },
+      {
+        "title": "Tonnage Q2",
+        "month": 6,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q3",
+        "month": 9,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q4",
+        "month": 12,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -191,13 +397,19 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$40/product",
     "requirements": [],
     "notes": "",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Registration Renewal",
+        "month": 10,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -208,13 +420,24 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$30 facility; $90/pet food; $0.30/ton",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$25 min semiannual",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage H1",
+        "month": 7,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -225,13 +448,43 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$50/firm; $50/pet food ≤10lb; $0.40/ton",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "$5 min quarterly",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Registration Renewal",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Q1",
+        "month": 3,
+        "day": 31
+      },
+      {
+        "title": "Tonnage Q2",
+        "month": 6,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q3",
+        "month": 9,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q4",
+        "month": 12,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -242,13 +495,29 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$20 biennial license; $50/pet food ≤10lb; $0.12/ton",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$20 min semiannual",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 7,
+        "day": 1
+      },
+      {
+        "title": "Product Renewal",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage H1",
+        "month": 7,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -259,13 +528,29 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$10 license; $25/pet food ≤10lb; $0.09/ton",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$15 min semiannual",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 7,
+        "day": 1
+      },
+      {
+        "title": "Tonnage H1",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage H2",
+        "month": 7,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -276,13 +561,43 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": ">10lb: none; ≤10lb: $50/product; $0.35/ton",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Permanent for >10lb",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Product Renewal",
+        "month": 7,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Q1",
+        "month": 3,
+        "day": 31
+      },
+      {
+        "title": "Tonnage Q2",
+        "month": 6,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q3",
+        "month": 9,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q4",
+        "month": 12,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -293,13 +608,43 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$40/firm; $6-$10/label; $1/ton",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "$10/quarter min",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 7,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Q1",
+        "month": 3,
+        "day": 31
+      },
+      {
+        "title": "Tonnage Q2",
+        "month": 6,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q3",
+        "month": 9,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q4",
+        "month": 12,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -310,13 +655,19 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$80 license; $100/pet food",
     "requirements": [],
     "notes": "",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Registration Renewal",
+        "month": 1,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -327,13 +678,19 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$50/product",
     "requirements": [],
     "notes": "",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Registration Renewal",
+        "month": 5,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -344,13 +701,21 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
+    "processingTime": "30-45 days",
+    "fees": "$100/product; $25 late fee",
+    "requirements": [
+      "https://www.mass.gov/how-to/commercial-feed-pet-food-registration"
+    ],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "Labels required. Check only",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Registration Renewal",
+        "month": 1,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -361,13 +726,24 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$100 license; $0.30/ton; $50 min/yr",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$25 license if ≤5lb only",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 7,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Report",
+        "month": 6,
+        "day": 30
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -378,13 +754,29 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$75 license; $0.16/ton or $75 min",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$100/pet food ≤10lb",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Product Listing",
+        "month": 7,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Report",
+        "month": 7,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -395,13 +787,24 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$100 facility; $0.25/ton >10lb; $25/brand ≤10lb",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$20/yr min",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Facility Renewal",
+        "month": 12,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Report",
+        "month": 1,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -412,13 +815,43 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$35/license; $0.14/ton; $90/pet food ≤10lb",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "$5/quarter min",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 7,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Q1",
+        "month": 3,
+        "day": 31
+      },
+      {
+        "title": "Tonnage Q2",
+        "month": 6,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q3",
+        "month": 9,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q4",
+        "month": 12,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -429,13 +862,24 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$100 new/$75 renewal; $50/pet food; $0.18/ton",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$25 late fee",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Report",
+        "month": 1,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -446,13 +890,29 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$15/facility; $0.065/ton; $25/≤10lb",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$5 min semiannual",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage H1",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage H2",
+        "month": 7,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -463,13 +923,43 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$75/license; $0.15/ton or $5/quarter min",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "$20/yr min",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Q1",
+        "month": 3,
+        "day": 31
+      },
+      {
+        "title": "Tonnage Q2",
+        "month": 6,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q3",
+        "month": 9,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q4",
+        "month": 12,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -480,13 +970,19 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$75/product",
     "requirements": [],
     "notes": "",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Registration Renewal",
+        "month": 1,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -497,13 +993,24 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$250/facility; $0.30/ton; $250 min/yr",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$250/yr min",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Report",
+        "month": 1,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -514,13 +1021,43 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
+    "processingTime": "30-45 days",
+    "fees": "$2/product + $25/≤10lb + $100/pet food; $0.15/ton",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "https://nmdeptag.nmsu.edu/licensing-and-registrations/commercial-feed-registration.html",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Registration Renewal",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Q1",
+        "month": 3,
+        "day": 31
+      },
+      {
+        "title": "Tonnage Q2",
+        "month": 6,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q3",
+        "month": 9,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q4",
+        "month": 12,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -531,13 +1068,31 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
+    "processingTime": "45-60 days",
+    "fees": "$100/brand pet food; $100/facility",
+    "requirements": [
+      "https://agriculture.ny.gov/food-safety/pet-food"
+    ],
     "notes": "",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Pet Food Renewal",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Facility Renewal",
+        "month": 7,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Report",
+        "month": 1,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -548,13 +1103,43 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$5/>5lb; $40/≤5lb; $12/canned; $0.12/ton",
+    "requirements": [
+      "Registration Form",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "$10 quarterly min",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Registration Renewal",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Q1",
+        "month": 3,
+        "day": 31
+      },
+      {
+        "title": "Tonnage Q2",
+        "month": 6,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q3",
+        "month": 9,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q4",
+        "month": 12,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -565,13 +1150,24 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$120 new/$100 renewal biennial; $0.20/ton",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$10 min",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Biennial Renewal",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Report",
+        "month": 1,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -582,13 +1178,24 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "Permanent reg; $0.25/ton",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "Permanent registration. $25 min",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Tonnage H1",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage H2",
+        "month": 7,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -599,13 +1206,29 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$50 license; $0.15/ton",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$10 min semiannual",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 7,
+        "day": 1
+      },
+      {
+        "title": "Tonnage H1",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage H2",
+        "month": 7,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -616,13 +1239,19 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$150-$750 license; $40/product (most dog/cat exempt)",
     "requirements": [],
     "notes": "",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 1,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -633,13 +1262,24 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$25/license; $0.10/ton; $25 min/yr",
     "requirements": [],
     "notes": "",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Report",
+        "month": 1,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -650,13 +1290,19 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$60/product",
     "requirements": [],
     "notes": "",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Registration Renewal",
+        "month": 1,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -667,13 +1313,19 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$20/product; $10 late fee",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$10 late fee after 15 days",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Registration Renewal",
+        "month": 1,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -684,13 +1336,24 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$50 biennial; $0.10/ton; $99/pet product",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$20/report min",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Biennial Renewal",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Report",
+        "month": 1,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -701,13 +1364,19 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$50 min/facility based on tonnage",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "Fee=(tons/350)*$50",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 7,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -718,13 +1387,43 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
-    "requirements": [],
-    "notes": "",
+    "processingTime": "30-45 days",
+    "fees": "$75/facility permanent; $50/≤5lb; $0.19/ton",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "Tonnage Report"
+    ],
+    "notes": "Permanent facility. $100 min annual",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Product Renewal",
+        "month": 9,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Q1",
+        "month": 3,
+        "day": 31
+      },
+      {
+        "title": "Tonnage Q2",
+        "month": 6,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q3",
+        "month": 9,
+        "day": 30
+      },
+      {
+        "title": "Tonnage Q4",
+        "month": 12,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -735,13 +1434,19 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$60/product/yr; $75 blender license",
     "requirements": [],
     "notes": "",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Registration Renewal",
+        "month": 1,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -752,13 +1457,19 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$105/feed product; $35/dosage form",
     "requirements": [],
     "notes": "",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Registration Renewal",
+        "month": 4,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -769,13 +1480,24 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$50 license/facility; $0.07/ton; $50/brand ≤10lb",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$35/yr min",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage Report",
+        "month": 2,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -786,13 +1508,29 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$50 license; $90/pet food <10lb; $22/>10lb; $0.12/ton",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$25/yr min",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 7,
+        "day": 1
+      },
+      {
+        "title": "Tonnage H1",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage H2",
+        "month": 7,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -803,13 +1541,34 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$500 guarantor; $100/>10lb; $75/≤10lb; $0.35/ton",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$25 min",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 12,
+        "day": 31
+      },
+      {
+        "title": "Product Renewal",
+        "month": 8,
+        "day": 31
+      },
+      {
+        "title": "Tonnage H1",
+        "month": 1,
+        "day": 1
+      },
+      {
+        "title": "Tonnage H2",
+        "month": 7,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -820,13 +1579,24 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$25/facility; $0.25/ton; $50 min",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "$50/yr min",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 2,
+        "day": 28
+      },
+      {
+        "title": "Tonnage Report",
+        "month": 1,
+        "day": 31
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -837,13 +1607,19 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "$40/product",
     "requirements": [],
     "notes": "",
     "registrationFormUrl": "",
     "registrationFormFile": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "Registration Renewal",
+        "month": 1,
+        "day": 1
+      }
+    ],
     "submissionMethod": "mail",
     "onlinePortalUrl": "",
     "checkPayee": "",
@@ -854,11 +1630,11 @@
     "contact": "",
     "email": "",
     "phone": "",
-    "processingTime": "",
-    "fees": "",
+    "processingTime": "30-45 days",
+    "fees": "Contact DC for fees",
     "requirements": [],
     "notes": "",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "Contact DC Dept of Health",
     "registrationFormFile": "",
     "deadlines": [],
     "submissionMethod": "mail",
