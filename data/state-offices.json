@@ -14,11 +14,18 @@
     ],
     "notes": "Renewal Jan 1",
     "registrationFormUrl": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 4,
+        "day": 18
+      }
+    ],
     "tonnageDeadline": "",
     "renewalDeadline": "",
     "renewalPeriod": "Annual",
-    "tonnageFrequency": "Quarterly"
+    "tonnageFrequency": "Quarterly",
+    "submissionMethod": "mail"
   },
   "AK": {
     "name": "Alaska",
@@ -107,7 +114,7 @@
     "email": "",
     "phone": "",
     "processingTime": "30-45 days",
-    "fees": "$75/company; $0.05/ton; $25/product ≤10lb",
+    "fees": "$75/company; $0.05/ton; $25/product â¤10lb",
     "requirements": [
       "Registration Form",
       "Label/Artwork",
@@ -187,7 +194,7 @@
     "email": "",
     "phone": "",
     "processingTime": "30-45 days",
-    "fees": "$75-$2000 based on tons; $40/pet food ≤10lb",
+    "fees": "$75-$2000 based on tons; $40/pet food â¤10lb",
     "requirements": [
       "Feed License",
       "Label/Artwork",
@@ -266,7 +273,7 @@
     "email": "",
     "phone": "",
     "processingTime": "30-45 days",
-    "fees": "$50/firm; $50/pet food ≤10lb; $0.40/ton",
+    "fees": "$50/firm; $50/pet food â¤10lb; $0.40/ton",
     "requirements": [
       "Registration Form",
       "Label/Artwork",
@@ -286,7 +293,7 @@
     "email": "",
     "phone": "",
     "processingTime": "30-45 days",
-    "fees": "$20 biennial license; $50/pet food ≤10lb; $0.12/ton",
+    "fees": "$20 biennial license; $50/pet food â¤10lb; $0.12/ton",
     "requirements": [
       "License Application",
       "Label/Artwork",
@@ -306,7 +313,7 @@
     "email": "",
     "phone": "",
     "processingTime": "30-45 days",
-    "fees": "$10 license; $25/pet food ≤10lb; $0.09/ton",
+    "fees": "$10 license; $25/pet food â¤10lb; $0.09/ton",
     "requirements": [
       "License Application",
       "Label/Artwork",
@@ -326,13 +333,13 @@
     "email": "",
     "phone": "",
     "processingTime": "30-45 days",
-    "fees": ">10lb: none; ≤10lb: $50/product; $0.35/ton",
+    "fees": ">10lb: none; â¤10lb: $50/product; $0.35/ton",
     "requirements": [
       "Registration Form",
       "Label/Artwork",
       "Tonnage Report"
     ],
-    "notes": "Permanent for >10lb. ≤10lb renewal Jul 1",
+    "notes": "Permanent for >10lb. â¤10lb renewal Jul 1",
     "registrationFormUrl": "",
     "deadlines": [],
     "tonnageDeadline": "",
@@ -346,7 +353,7 @@
     "email": "",
     "phone": "",
     "processingTime": "30-45 days",
-    "fees": "$40/firm; $6-$10/label; $1/ton; $200/≤10lb",
+    "fees": "$40/firm; $6-$10/label; $1/ton; $200/â¤10lb",
     "requirements": [
       "License Application",
       "Label/Artwork",
@@ -429,7 +436,7 @@
       "Label/Artwork",
       "Tonnage Report"
     ],
-    "notes": "Renewal Jul 1. $25 license if ≤5lb only",
+    "notes": "Renewal Jul 1. $25 license if â¤5lb only",
     "registrationFormUrl": "",
     "deadlines": [],
     "tonnageDeadline": "",
@@ -443,7 +450,7 @@
     "email": "",
     "phone": "",
     "processingTime": "30-45 days",
-    "fees": "$75 license; $0.16/ton or $75 min; $100/pet food ≤10lb",
+    "fees": "$75 license; $0.16/ton or $75 min; $100/pet food â¤10lb",
     "requirements": [
       "License Application",
       "Label/Artwork",
@@ -463,7 +470,7 @@
     "email": "",
     "phone": "",
     "processingTime": "30-45 days",
-    "fees": "$100 facility; $0.25/ton >10lb; $25/brand ≤10lb",
+    "fees": "$100 facility; $0.25/ton >10lb; $25/brand â¤10lb",
     "requirements": [
       "Facility Registration",
       "Label/Artwork",
@@ -483,7 +490,7 @@
     "email": "",
     "phone": "",
     "processingTime": "30-45 days",
-    "fees": "$35/license; $0.14/ton; $90/pet food ≤10lb",
+    "fees": "$35/license; $0.14/ton; $90/pet food â¤10lb",
     "requirements": [
       "License Application",
       "Label/Artwork",
@@ -523,7 +530,7 @@
     "email": "",
     "phone": "",
     "processingTime": "30-45 days",
-    "fees": "$15/facility; $0.065/ton; $25/≤10lb",
+    "fees": "$15/facility; $0.065/ton; $25/â¤10lb",
     "requirements": [
       "License Application",
       "Label/Artwork",
@@ -602,7 +609,7 @@
     "email": "",
     "phone": "",
     "processingTime": "30-45 days",
-    "fees": "$2/product + $25/≤10lb + $100/pet food; $0.15/ton",
+    "fees": "$2/product + $25/â¤10lb + $100/pet food; $0.15/ton",
     "requirements": [
       "Registration Form",
       "Label/Artwork",
@@ -622,7 +629,7 @@
     "email": "",
     "phone": "",
     "processingTime": "45-60 days",
-    "fees": "$100/brand pet food; $100/facility; $0.10/≥100 tons",
+    "fees": "$100/brand pet food; $100/facility; $0.10/â¥100 tons",
     "requirements": [
       "Registration Form",
       "Label/Artwork",
@@ -643,7 +650,7 @@
     "email": "",
     "phone": "",
     "processingTime": "30-45 days",
-    "fees": "$5/>5lb; $40/≤5lb; $12/canned; $0.12/ton",
+    "fees": "$5/>5lb; $40/â¤5lb; $12/canned; $0.12/ton",
     "requirements": [
       "Registration Form",
       "Label/Artwork",
@@ -839,7 +846,7 @@
     "email": "",
     "phone": "",
     "processingTime": "30-45 days",
-    "fees": "$75/facility permanent; $50/≤5lb; $0.19/ton",
+    "fees": "$75/facility permanent; $50/â¤5lb; $0.19/ton",
     "requirements": [
       "License Application",
       "Label/Artwork",
@@ -897,7 +904,7 @@
     "email": "",
     "phone": "",
     "processingTime": "30-45 days",
-    "fees": "$50 license/facility; $0.07/ton; $50/brand ≤10lb",
+    "fees": "$50 license/facility; $0.07/ton; $50/brand â¤10lb",
     "requirements": [
       "License Application",
       "Label/Artwork",
@@ -937,7 +944,7 @@
     "email": "",
     "phone": "",
     "processingTime": "30-45 days",
-    "fees": "$500 guarantor; $100/>10lb; $75/≤10lb; $0.35/ton",
+    "fees": "$500 guarantor; $100/>10lb; $75/â¤10lb; $0.35/ton",
     "requirements": [
       "License Application",
       "Label/Artwork",
