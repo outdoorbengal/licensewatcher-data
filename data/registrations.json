@@ -451,7 +451,16 @@
     "documents": [],
     "notes": "",
     "createdAt": "2026-04-16",
-    "approvals": {}
+    "approvals": {
+      "Registration Renewal_2026": {
+        "date": "2026-04-16",
+        "status": "Approved",
+        "file": "FN262289(USD)_OUTBL-26001-USDS (02464533).PDF",
+        "filePath": "uploads/approvals/calming_treats/MD/registration_renewal_2026.PDF",
+        "year": 2026
+      }
+    },
+    "lastActionDate": "2026-04-16"
   },
   {
     "id": "reg_1776364107967_20",
