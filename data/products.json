@@ -8,5 +8,15 @@
     "labelFilePath": "",
     "gaFilePath": "",
     "createdAt": "2026-04-16"
+  },
+  {
+    "name": "Feastfuls",
+    "type": "Pet Treat",
+    "description": "",
+    "labelFile": "",
+    "gaFile": "",
+    "labelFilePath": "",
+    "gaFilePath": "",
+    "createdAt": "2026-04-16"
   }
 ]
