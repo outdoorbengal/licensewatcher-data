@@ -1,20 +1,17 @@
 {
   "AL": {
     "name": "Alabama",
-    "contact": "",
-    "email": "",
-    "phone": "",
+    "contact": "Neus",
+    "email": "neus@outdoorbengal.com",
+    "phone": "Torrent Ample",
     "processingTime": "30-45 days",
     "fees": "$0.25/ton; $50-$100/brand ≤10lb",
     "requirements": [
-      "License Application",
-      "Label/Artwork",
-      "Guaranteed Analysis",
-      "Tonnage Report"
+      "License Renewal"
     ],
     "notes": "",
     "registrationFormUrl": "",
-    "registrationFormFile": "",
+    "registrationFormFile": "uploads/state-forms/AL/registration_form.PDF",
     "deadlines": [
       {
         "title": "License Renewal",
