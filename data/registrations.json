@@ -1,40 +1,5 @@
 [
   {
-    "id": "reg_1776294165937_0",
-    "productName": "Calming Sticks",
-    "productType": "Cat Supplement",
-    "state": "AL",
-    "stateName": "Alabama",
-    "status": "Approved",
-    "deadline": "2026-04-30",
-    "totalDocs": 4,
-    "uploadedDocs": 4,
-    "documents": [
-      {
-        "name": "License Application",
-        "uploaded": true,
-        "file": "license_application.pdf"
-      },
-      {
-        "name": "Label/Artwork",
-        "uploaded": true,
-        "file": "label/artwork.pdf"
-      },
-      {
-        "name": "Guaranteed Analysis",
-        "uploaded": true,
-        "file": "guaranteed_analysis.pdf"
-      },
-      {
-        "name": "Tonnage Report",
-        "uploaded": true,
-        "file": "tonnage_report.pdf"
-      }
-    ],
-    "notes": "",
-    "createdAt": "2026-04-15"
-  },
-  {
     "id": "reg_1776294165937_1",
     "productName": "Calming Sticks",
     "productType": "Cat Supplement",
