@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "Calming Sticks",
+    "type": "Cat Supplement",
+    "description": "",
+    "labelFile": "registration_form.PDF",
+    "gaFile": "OutdoorBengal · Orders · #6049 · Shopify (1).pdf",
+    "labelFilePath": "uploads/products/calming_sticks/label.PDF",
+    "gaFilePath": "uploads/products/calming_sticks/guaranteed_analysis.pdf",
+    "createdAt": "2026-04-16"
+  }
+]
