@@ -40,7 +40,13 @@
     ],
     "notes": "Contact AK Dept of Environmental Conservation",
     "registrationFormUrl": "",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "title": "License Renewal",
+        "month": 4,
+        "day": 17
+      }
+    ],
     "tonnageDeadline": "",
     "renewalDeadline": "",
     "renewalPeriod": "Annual",
