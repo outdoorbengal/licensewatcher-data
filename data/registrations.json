@@ -80,7 +80,16 @@
     ],
     "notes": "",
     "createdAt": "2026-04-16",
-    "approvals": {}
+    "approvals": {
+      "Tonnage Q2_2026": {
+        "date": "2026-04-16",
+        "status": "Submitted",
+        "file": "",
+        "filePath": "",
+        "year": 2026
+      }
+    },
+    "lastActionDate": "2026-04-16"
   },
   {
     "id": "reg_1776354539368_3",
