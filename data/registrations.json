@@ -5,12 +5,13 @@
     "productType": "Cat Supplement",
     "state": "AL",
     "stateName": "Alabama",
-    "status": "Pending",
+    "status": "Rejected",
     "deadline": "",
     "totalDocs": 0,
     "uploadedDocs": 0,
     "documents": [],
     "notes": "Placeholder - Test",
-    "createdAt": "2026-04-16"
+    "createdAt": "2026-04-16",
+    "lastActionDate": "2026-04-16"
   }
 ]
