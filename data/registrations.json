@@ -8,12 +8,13 @@
     "status": "Pending",
     "deadline": "",
     "totalDocs": 2,
-    "uploadedDocs": 0,
+    "uploadedDocs": 1,
     "documents": [
       {
         "name": "Registration Form",
-        "uploaded": false,
-        "file": null
+        "uploaded": true,
+        "file": "FN262289(USD)_OUTBL-26001-USDS (02464533).PDF",
+        "filePath": "uploads/registrations/calming_sticks/AK/registration_form.PDF"
       },
       {
         "name": "Label/Artwork",
