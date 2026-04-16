@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "CAlming sticks",
+    "type": "Cat Supplement",
+    "description": "",
+    "labelFile": "",
+    "gaFile": "",
+    "labelFilePath": "",
+    "gaFilePath": "",
+    "createdAt": "2026-04-16"
+  }
+]
