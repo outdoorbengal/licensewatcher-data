@@ -452,7 +452,16 @@
     "documents": [],
     "notes": "",
     "createdAt": "2026-04-20",
-    "approvals": {}
+    "approvals": {
+      "Registration Renewal_2026": {
+        "date": "2026-04-20",
+        "status": "Approved",
+        "file": "label (2).pdf",
+        "filePath": "uploads/approvals/calming_sticks/MD/registration_renewal_2026.pdf",
+        "year": 2026
+      }
+    },
+    "lastActionDate": "2026-04-20"
   },
   {
     "id": "reg_1776710129871_20",
