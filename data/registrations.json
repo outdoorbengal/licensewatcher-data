@@ -451,7 +451,16 @@
     "documents": [],
     "notes": "",
     "createdAt": "2026-04-27",
-    "approvals": {}
+    "approvals": {
+      "Registration Renewal_2026": {
+        "date": "2026-04-27",
+        "status": "Submitted",
+        "file": "",
+        "filePath": "",
+        "year": 2026
+      }
+    },
+    "lastActionDate": "2026-04-27"
   },
   {
     "id": "reg_1777294000570_20",
