@@ -3303,7 +3303,15 @@
     ],
     "notes": "",
     "createdAt": "2026-05-11",
-    "approvals": {},
+    "approvals": {
+      "License Renewal_2026": {
+        "date": "2026-05-11",
+        "status": "Approved",
+        "file": "",
+        "filePath": "",
+        "year": 2026
+      }
+    },
     "lastActionDate": "2026-05-11"
   },
   {
