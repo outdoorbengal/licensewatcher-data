@@ -3,10 +3,20 @@
     "name": "Calming Sticks",
     "type": "Cat Supplement",
     "description": "",
-    "labelFile": "OutdoorBengal · Orders · #6444 · Shopify.pdf",
+    "labelFile": "OutdoorBengal Â· Orders Â· #6444 Â· Shopify.pdf",
     "gaFile": "label (2).pdf",
     "labelFilePath": "uploads/products/calming_sticks/label.pdf",
     "gaFilePath": "uploads/products/calming_sticks/guaranteed_analysis.pdf",
     "createdAt": "2026-04-27"
+  },
+  {
+    "name": "Feastfuls Freeze-Dried Chicken",
+    "type": "Pet Treat",
+    "description": "",
+    "labelFile": "Feastfuls__1.oz_R3.pdf",
+    "gaFile": "",
+    "labelFilePath": "uploads/products/feastfuls_freeze_dried_chicken/label.pdf",
+    "gaFilePath": "",
+    "createdAt": "2026-05-11"
   }
 ]
