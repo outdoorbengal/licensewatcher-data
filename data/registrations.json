@@ -2592,7 +2592,7 @@
     "productType": "Cat Supplement",
     "state": "MS",
     "stateName": "Mississippi",
-    "status": "Pending",
+    "status": "Approved",
     "deadline": "",
     "totalDocs": 4,
     "uploadedDocs": 0,
@@ -2620,7 +2620,8 @@
     ],
     "notes": "",
     "createdAt": "2026-05-11",
-    "approvals": {}
+    "approvals": {},
+    "lastActionDate": "2026-05-11"
   },
   {
     "id": "reg_1778494722284_24",
