@@ -1927,7 +1927,7 @@
     "productType": "Cat Supplement",
     "state": "CA",
     "stateName": "California",
-    "status": "Pending",
+    "status": "Approved",
     "deadline": "",
     "totalDocs": 5,
     "uploadedDocs": 0,
@@ -1960,7 +1960,8 @@
     ],
     "notes": "",
     "createdAt": "2026-05-11",
-    "approvals": {}
+    "approvals": {},
+    "lastActionDate": "2026-05-11"
   },
   {
     "id": "reg_1778494722284_5",
