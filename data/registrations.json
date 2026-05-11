@@ -587,7 +587,16 @@
     ],
     "notes": "",
     "createdAt": "2026-05-11",
-    "approvals": {}
+    "approvals": {
+      "Tonnage Q1_2027": {
+        "date": "2026-05-11",
+        "status": "Approved",
+        "file": "",
+        "filePath": "",
+        "year": 2027
+      }
+    },
+    "lastActionDate": "2026-05-11"
   },
   {
     "id": "reg_1778494553031_18",
