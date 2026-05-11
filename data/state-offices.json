@@ -2,18 +2,18 @@
   "AL": {
     "name": "Alabama",
     "contact": "AL Dept of Agriculture & Industries",
-    "email": "",
+    "email": "Donnie.Walker@agi.alabama.gov",
     "phone": "(334) 240-7184",
     "processingTime": "30-45 days",
     "fees": "$0.25/ton; $50-$100/brand ≤10lb",
     "requirements": [
       "License Application",
       "Label/Artwork",
-      "Guaranteed Analysis",
+      "License Renewal",
       "Tonnage Report"
     ],
     "notes": "Website: www.agi.alabama.gov; Audits & Reports Section handles registration and tonnage",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "https://alabamaagi.my.site.com/agi/s/",
     "registrationFormFile": "",
     "deadlines": [
       {
@@ -67,23 +67,24 @@
   "AZ": {
     "name": "Arizona",
     "contact": "AZ Dept of Agriculture",
-    "email": "",
+    "email": "licensing@azda.gov",
     "phone": "(602) 542-4373",
     "processingTime": "30-45 days",
     "fees": "$10 license/plant; $0.20/ton",
     "requirements": [
       "License Application",
       "Label/Artwork",
+      "License Renewal",
       "Tonnage Report"
     ],
     "notes": "$2/quarter min; Website: agriculture.az.gov",
-    "registrationFormUrl": "https://agriculture.az.gov/pesticides-pest-control/feeds",
+    "registrationFormUrl": "https://applications.azda.gov/",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "License Renewal",
-        "month": 7,
-        "day": 1
+        "month": 6,
+        "day": 30
       },
       {
         "title": "Tonnage Q1",
@@ -114,23 +115,24 @@
   "AR": {
     "name": "Arkansas",
     "contact": "AR State Plant Board",
-    "email": "",
+    "email": "franz.oliver@agriculture.arkansas.gov",
     "phone": "(501) 225-1598",
     "processingTime": "20-30 days",
     "fees": "$10 license; $0.30/ton",
     "requirements": [
       "License Application",
       "Label/Artwork",
+      "License Renewal",
       "Tonnage Report"
     ],
-    "notes": "$10/quarter min; Website: www.aad.arkansas.gov",
+    "notes": "$10/quarter min; Website: https://agriculture.arkansas.gov/",
     "registrationFormUrl": "",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "License Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       },
       {
         "title": "Tonnage Q1",
@@ -161,10 +163,10 @@
   "CA": {
     "name": "California",
     "contact": "CA Dept of Food & Agriculture / CDPH",
-    "email": "fdbinfo@cdph.ca.gov",
+    "email": "mktenforce@cdfa.ca.gov",
     "phone": "(916) 900-5022",
     "processingTime": "60-90 days",
-    "fees": "$500/license/location/yr; $0.15/ton max",
+    "fees": "$100/license/location/yr; $0.15/ton max",
     "requirements": [
       "License Application",
       "Label/Artwork",
@@ -172,7 +174,7 @@
       "Tonnage Report",
       "AAFCO Compliance"
     ],
-    "notes": "Pet food via CA Dept of Public Health; Website: www.cdfa.ca.gov; Pet food via CA Dept of Public Health (916) 650-6500",
+    "notes": "Pet food doesn't need registration in California. Department of Food and Agriculture, AHFSS P.O. Box 942881, Sacramento, CA 94271 Please make check payable to: CDFA - 420",
     "registrationFormUrl": "",
     "registrationFormFile": "",
     "deadlines": [
@@ -210,19 +212,24 @@
   "CO": {
     "name": "Colorado",
     "contact": "CO Dept of Agriculture",
-    "email": "",
-    "phone": "(303) 869-9050",
+    "email": "jason.mead@state.co.us",
+    "phone": "(303) 869-9090",
     "processingTime": "30-45 days",
     "fees": "$75/company; $0.05/ton; $25/product ≤10lb",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: ag.colorado.gov",
-    "registrationFormUrl": "Annual tonnage",
+    "registrationFormUrl": "https://www.ag.state.co.us/eLicense/SecurityLogin.aspx",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Registration Renewal",
-        "month": 2,
-        "day": 1
+        "month": 1,
+        "day": 31
       },
       {
         "title": "Tonnage Report",
@@ -239,18 +246,23 @@
     "name": "Connecticut",
     "contact": "CT Dept of Agriculture",
     "email": "ctdeptag@ct.gov",
-    "phone": "(860) 713-2504",
+    "phone": "(860) 713-2508",
     "processingTime": "30-45 days",
     "fees": "$80/product",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: portal.ct.gov/doag",
-    "registrationFormUrl": "No tonnage",
+    "registrationFormUrl": "https://elicense.ct.gov/Lookup/LicenseLookup.aspx",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Registration Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       }
     ],
     "submissionMethod": "mail",
@@ -261,19 +273,24 @@
   "DE": {
     "name": "Delaware",
     "contact": "DE Dept of Agriculture",
-    "email": "",
-    "phone": "(302) 698-4500",
+    "email": "ellen.grazioso@delaware.gov",
+    "phone": "(302) 698-4524",
     "processingTime": "30-45 days",
-    "fees": "$23/product; $100/pet food (2025+)",
-    "requirements": [],
+    "fees": "$23/product; $100/pet food",
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: agriculture.delaware.gov",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "https://www.kellysolutions.com/erenewals/login.aspx?ReturnUrl=/erenewals/PetFood/default.aspx",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Registration Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       }
     ],
     "submissionMethod": "mail",
@@ -284,24 +301,24 @@
   "FL": {
     "name": "Florida",
     "contact": "FL Dept of Agriculture & Consumer Services",
-    "email": "",
-    "phone": "(850) 617-7900",
+    "email": "Shaness.Thomas@FDACS.gov",
+    "phone": "(850) 617-7866",
     "processingTime": "30-60 days",
     "fees": "$40-$3500 master reg based on tonnage",
     "requirements": [
-      "Master Registration",
+      "License Application",
       "Label/Artwork",
-      "Guaranteed Analysis",
+      "License Renewal",
       "Tonnage Report"
     ],
-    "notes": "Quarterly tonnage enforced; Website: www.fdacs.gov",
-    "registrationFormUrl": "https://www.fdacs.gov/Business-Services/Feed-Seed-and-Fertilizer",
+    "notes": "Website: https://www.fdacs.gov/Agriculture-Industry/Feed-Distributor-Licensing",
+    "registrationFormUrl": "https://lims.flaes.org/HomeNew.aspx?ReturnUrl=%2f",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Master Reg Renewal",
-        "month": 7,
-        "day": 1
+        "month": 6,
+        "day": 30
       },
       {
         "title": "Tonnage Q1",
@@ -333,20 +350,23 @@
     "name": "Georgia",
     "contact": "GA Dept of Agriculture",
     "email": "melissa.smith@agr.georgia.gov",
-    "phone": "(404) 656-3637",
+    "phone": "(404) 656-4958",
     "processingTime": "30-45 days",
     "fees": "$75-$2000 based on tons; $40/pet food ≤10lb",
     "requirements": [
-      "https://agr.georgia.gov/feed-licenses-and-product-registrations"
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
     ],
     "notes": "Website: agr.georgia.gov; Online via Kelly Registration Systems. Contact: Melissa Smith",
-    "registrationFormUrl": "$2000 cap",
+    "registrationFormUrl": "https://www.kellysolutions.com/ga/feeddealers/newapplication/applynow.asp",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "License Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       }
     ],
     "submissionMethod": "mail",
@@ -395,19 +415,24 @@
   "ID": {
     "name": "Idaho",
     "contact": "ID State Dept of Agriculture",
-    "email": "feeds@isda.idaho.gov",
-    "phone": "(208) 332-8620",
+    "email": "bailey.brunmeier@isda.idaho.gov",
+    "phone": "(208) 332-8500",
     "processingTime": "30-45 days",
     "fees": "$40/product",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: agri.idaho.gov",
-    "registrationFormUrl": "https://agri.idaho.gov/main/i-need-to/register-a-feed-product/",
+    "registrationFormUrl": "https://onlinepay.isda.idaho.gov/",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Registration Renewal",
-        "month": 10,
-        "day": 1
+        "month": 9,
+        "day": 30
       }
     ],
     "submissionMethod": "mail",
@@ -445,24 +470,25 @@
   },
   "IN": {
     "name": "Indiana",
-    "contact": "Office of Indiana State Chemist",
+    "contact": "Office of Indiana State Chemist & Seed Commissioner",
     "email": "feedcontrol@purdue.edu",
     "phone": "(765) 494-1492",
     "processingTime": "30-45 days",
     "fees": "$50/firm; $50/pet food ≤10lb; $0.40/ton",
     "requirements": [
-      "Registration Form",
+      "License Application",
       "Label/Artwork",
+      "License Renewal",
       "Tonnage Report"
     ],
-    "notes": "$5 min quarterly; Website: www.oisc.purdue.edu",
+    "notes": "$5 min quarterly; Website: https://oisc.purdue.edu/",
     "registrationFormUrl": "https://www.oisc.purdue.edu/feed/index.html",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Registration Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       },
       {
         "title": "Tonnage Q1",
@@ -494,18 +520,23 @@
     "name": "Iowa",
     "contact": "IA Dept of Agriculture & Land Stewardship",
     "email": "",
-    "phone": "(515) 281-8609",
+    "phone": "(515) 242-6338",
     "processingTime": "30-45 days",
     "fees": "$20 biennial license; $50/pet food ≤10lb; $0.12/ton",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: iowaagriculture.gov",
-    "registrationFormUrl": "$20 min semiannual",
+    "registrationFormUrl": "https://iowadeptag.my.site.com/s/login/?ec=302&startURL=%2Fs%2F",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "License Renewal",
-        "month": 7,
-        "day": 1
+        "month": 6,
+        "day": 30
       },
       {
         "title": "Product Renewal",
@@ -526,19 +557,24 @@
   "KS": {
     "name": "Kansas",
     "contact": "KS Dept of Agriculture",
-    "email": "kda.feeds@ks.gov",
-    "phone": "(785) 564-6685",
+    "email": "Michelle.Niedfeldt@ks.gov",
+    "phone": "(785) 564-6700",
     "processingTime": "30-45 days",
     "fees": "$10 license; $25/pet food ≤10lb; $0.09/ton",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: agriculture.ks.gov",
-    "registrationFormUrl": "$15 min semiannual",
+    "registrationFormUrl": "https://usaplants.kda.ks.gov/USAPlantsKS/SecurityLogin.aspx",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "License Renewal",
-        "month": 7,
-        "day": 1
+        "month": 6,
+        "day": 30
       },
       {
         "title": "Tonnage H1",
@@ -560,22 +596,23 @@
     "name": "Kentucky",
     "contact": "KY Dept of Agriculture",
     "email": "feed@kyagr.com",
-    "phone": "(502) 573-0282",
+    "phone": "(859) 257-2785",
     "processingTime": "30-45 days",
     "fees": ">10lb: none; ≤10lb: $50/product; $0.35/ton",
     "requirements": [
-      "Registration Form",
+      "License Application",
       "Label/Artwork",
+      "License Renewal",
       "Tonnage Report"
     ],
-    "notes": "Permanent for >10lb; Website: www.kyagr.com",
+    "notes": "Division of Regulatory Services, 103 Regulatory Services Building University of Kentucky, Lexington, KY 40546-0275 Fax: (859) 323-9931 Phone: (859) 257-2785; Website: https://www.rs.uky.edu/regulatory/feed/registration.php",
     "registrationFormUrl": "",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Product Renewal",
-        "month": 7,
-        "day": 1
+        "month": 6,
+        "day": 30
       },
       {
         "title": "Tonnage Q1",
@@ -606,23 +643,24 @@
   "LA": {
     "name": "Louisiana",
     "contact": "LA Dept of Agriculture & Forestry",
-    "email": "",
-    "phone": "(225) 925-3770",
+    "email": "FeedProgram@ldaf.state.la.us",
+    "phone": "(225) 342-5812",
     "processingTime": "30-45 days",
     "fees": "$40/firm; $6-$10/label; $1/ton",
     "requirements": [
       "License Application",
       "Label/Artwork",
+      "License Renewal",
       "Tonnage Report"
     ],
-    "notes": "$10/quarter min; Website: www.ldaf.la.gov",
-    "registrationFormUrl": "https://www.ldaf.la.gov/animals/feed",
+    "notes": "$10/quarter min; Website: www.ldaf.state.la.us",
+    "registrationFormUrl": "https://usaplantsla.ldaf.state.la.us/USAPlantsLA/SecurityLogin.aspx",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "License Renewal",
-        "month": 7,
-        "day": 1
+        "month": 6,
+        "day": 30
       },
       {
         "title": "Tonnage Q1",
@@ -653,19 +691,24 @@
   "ME": {
     "name": "Maine",
     "contact": "ME Dept of Agriculture, Conservation & Forestry",
-    "email": "",
+    "email": "Trisha.DePalma@maine.gov",
     "phone": "(207) 287-3841",
     "processingTime": "30-45 days",
     "fees": "$80 license; $100/pet food",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: www.maine.gov/dacf",
     "registrationFormUrl": "",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Registration Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       }
     ],
     "submissionMethod": "mail",
@@ -676,19 +719,24 @@
   "MD": {
     "name": "Maryland",
     "contact": "MD Dept of Agriculture",
-    "email": "mda.feedoffice@maryland.gov",
-    "phone": "(410) 841-5770",
+    "email": "philip.davidson@maryland.gov",
+    "phone": "(410) 841-2721",
     "processingTime": "30-45 days",
     "fees": "$50/product",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: mda.maryland.gov",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "https://www.egov.maryland.gov/mda/chemist",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Registration Renewal",
-        "month": 5,
-        "day": 1
+        "month": 4,
+        "day": 30
       }
     ],
     "submissionMethod": "mail",
@@ -699,12 +747,15 @@
   "MA": {
     "name": "Massachusetts",
     "contact": "MA Dept of Agricultural Resources",
-    "email": "",
-    "phone": "(617) 626-1801",
+    "email": "Howard.Vinton@mass.gov",
+    "phone": "(617) 626-1720",
     "processingTime": "30-45 days",
     "fees": "$100/product; $25 late fee",
     "requirements": [
-      "https://www.mass.gov/how-to/commercial-feed-pet-food-registration"
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
     ],
     "notes": "Website: www.mass.gov/agr",
     "registrationFormUrl": "Labels required. Check only",
@@ -712,8 +763,8 @@
     "deadlines": [
       {
         "title": "Registration Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       }
     ],
     "submissionMethod": "mail",
@@ -724,19 +775,24 @@
   "MI": {
     "name": "Michigan",
     "contact": "MI Dept of Agriculture & Rural Development",
-    "email": "",
+    "email": "-",
     "phone": "(800) 292-3939",
     "processingTime": "30-45 days",
     "fees": "$100 license; $0.30/ton; $50 min/yr",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: www.michigan.gov/mdard",
-    "registrationFormUrl": "$25 license if ≤5lb only",
+    "registrationFormUrl": "https://milogin.michigan.gov/eai/login/authenticate?PolicyId=urn:ibm:security:authentication:asf:basicldapuser&themeId=default&Target=https:%2F%2Fmiloginci.michigan.gov%2Foidc%2Fendpoint%2Fdefault%2Fauthorize%3Fclient_id%3D4683676c-8e38-47c6-9a39-8ddb951b9d83%26stateId%3D851e129c-229b-41e8-bf7f-33306fabff15%26themeId%3Ddefault",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "License Renewal",
-        "month": 7,
-        "day": 1
+        "month": 6,
+        "day": 30
       },
       {
         "title": "Tonnage Report",
@@ -753,18 +809,23 @@
     "name": "Minnesota",
     "contact": "MN Dept of Agriculture",
     "email": "mda.licensing@state.mn.us",
-    "phone": "(651) 201-6062",
+    "phone": "(651) 201-6027",
     "processingTime": "30-45 days",
     "fees": "$75 license; $0.16/ton or $75 min",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: www.mda.state.mn.us",
-    "registrationFormUrl": "$100/pet food ≤10lb",
+    "registrationFormUrl": "$100/pet food â¤10lb",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "License Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       },
       {
         "title": "Product Listing",
@@ -785,19 +846,24 @@
   "MS": {
     "name": "Mississippi",
     "contact": "MS Office of the State Chemist",
-    "email": "",
-    "phone": "(662) 325-3324",
+    "email": "bpifflsp@mdac.ms.gov",
+    "phone": "(662) 325-3390",
     "processingTime": "30-45 days",
     "fees": "$100 facility; $0.25/ton >10lb; $25/brand ≤10lb",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: www.msosc.msstate.edu",
-    "registrationFormUrl": "$20/yr min",
+    "registrationFormUrl": "https://agnet.mdac.ms.gov/fflsp/account/login?ReturnUrl=https%3A%2F%2Fagnet.mdac.ms.gov%2Ffflsp%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3DMDAC.FFLSP.Web%26redirect_uri%3Dhttps%253A%252F%252Fagnet.mdac.ms.gov%252Ffflsp%252Foidc-callback%26response_type%3Dcode%26scope%3Doffline_access%2520openid%2520profile%2520MDAC.FFLSP.WebAPI%26state%3Dc9fde242377946d6bb8dbfcc431647ef%26code_challenge%3D5Lntf8hAaIpRT-Dokp8TZgF1V9mHXRc2SGE8IPcwELs%26code_challenge_method%3DS256%26response_mode%3Dquery",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Facility Renewal",
-        "month": 12,
-        "day": 1
+        "month": 11,
+        "day": 30
       },
       {
         "title": "Tonnage Report",
@@ -814,22 +880,23 @@
     "name": "Missouri",
     "contact": "MO Dept of Agriculture",
     "email": "feed@mda.mo.gov",
-    "phone": "(573) 751-5504",
+    "phone": "(573) 751-4310",
     "processingTime": "30-45 days",
     "fees": "$35/license; $0.14/ton; $90/pet food ≤10lb",
     "requirements": [
       "License Application",
       "Label/Artwork",
+      "License Renewal",
       "Tonnage Report"
     ],
-    "notes": "$5/quarter min; Website: agriculture.mo.gov",
-    "registrationFormUrl": "",
+    "notes": "$5/quarter min; Website: http://agriculture.mo.gov/",
+    "registrationFormUrl": "https://apps.mda.mo.gov/moplants/SecurityLogin.aspx",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "License Renewal",
-        "month": 7,
-        "day": 1
+        "month": 6,
+        "day": 30
       },
       {
         "title": "Tonnage Q1",
@@ -860,19 +927,24 @@
   "MT": {
     "name": "Montana",
     "contact": "MT Dept of Agriculture",
-    "email": "",
+    "email": "KDeskins@mt.gov",
     "phone": "(406) 444-3144",
     "processingTime": "30-45 days",
     "fees": "$100 new/$75 renewal; $50/pet food; $0.18/ton",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: agr.mt.gov",
-    "registrationFormUrl": "$25 late fee",
+    "registrationFormUrl": "https://mtplants.mt.gov/Index.aspx",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "License Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       },
       {
         "title": "Tonnage Report",
@@ -921,23 +993,24 @@
   "NV": {
     "name": "Nevada",
     "contact": "NV Dept of Agriculture",
-    "email": "",
+    "email": "jmiller-ketcham@agri.nv.gov",
     "phone": "(775) 353-3601",
     "processingTime": "30-45 days",
     "fees": "$75/license; $0.15/ton or $5/quarter min",
     "requirements": [
       "License Application",
       "Label/Artwork",
+      "License Renewal",
       "Tonnage Report"
     ],
-    "notes": "$20/yr min; Website: agri.nv.gov",
-    "registrationFormUrl": "",
+    "notes": "Website: agri.nv.gov",
+    "registrationFormUrl": "https://nv.certifyag.com/Feed/",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "License Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       },
       {
         "title": "Tonnage Q1",
@@ -968,19 +1041,24 @@
   "NH": {
     "name": "New Hampshire",
     "contact": "NH Dept of Agriculture, Markets & Food",
-    "email": "",
+    "email": "registrations@agr.nh.gov",
     "phone": "(603) 271-3685",
     "processingTime": "30-45 days",
     "fees": "$75/product",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: www.agriculture.nh.gov",
     "registrationFormUrl": "",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Registration Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       }
     ],
     "submissionMethod": "mail",
@@ -991,19 +1069,24 @@
   "NJ": {
     "name": "New Jersey",
     "contact": "NJ Dept of Agriculture",
-    "email": "",
-    "phone": "(609) 292-5576",
+    "email": "Tanya.Negron@ag.nj.gov",
+    "phone": "(609) 984-8421",
     "processingTime": "30-45 days",
     "fees": "$250/facility; $0.30/ton; $250 min/yr",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: www.nj.gov/agriculture",
-    "registrationFormUrl": "$250/yr min",
+    "registrationFormUrl": "https://wwwdnet2-ag.nj.gov/AG_USAPlants/SecurityLogin.aspx",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "License Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       },
       {
         "title": "Tonnage Report",
@@ -1019,23 +1102,24 @@
   "NM": {
     "name": "New Mexico",
     "contact": "NM Dept of Agriculture",
-    "email": "",
-    "phone": "(575) 646-2642",
+    "email": "kyounker@nmda.nmsu.edu",
+    "phone": "(575) 646-3107",
     "processingTime": "30-45 days",
     "fees": "$2/product + $25/≤10lb + $100/pet food; $0.15/ton",
     "requirements": [
-      "Registration Form",
+      "License Application",
       "Label/Artwork",
+      "License Renewal",
       "Tonnage Report"
     ],
     "notes": "Website: nmdeptag.nmsu.edu",
-    "registrationFormUrl": "https://nmdeptag.nmsu.edu/licensing-and-registrations/commercial-feed-registration.html",
+    "registrationFormUrl": "https://nmag.nmsu.edu/USAPlants/",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Registration Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       },
       {
         "title": "Tonnage Q1",
@@ -1067,11 +1151,14 @@
     "name": "New York",
     "contact": "NY Dept of Agriculture & Markets",
     "email": "",
-    "phone": "(518) 457-2087",
+    "phone": "(518) 457-5457",
     "processingTime": "45-60 days",
     "fees": "$100/brand pet food; $100/facility",
     "requirements": [
-      "https://agriculture.ny.gov/food-safety/pet-food"
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
     ],
     "notes": "Website: agriculture.ny.gov",
     "registrationFormUrl": "https://agriculture.ny.gov/food-safety/pet-food",
@@ -1079,8 +1166,8 @@
     "deadlines": [
       {
         "title": "Pet Food Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       },
       {
         "title": "Facility Renewal",
@@ -1101,17 +1188,18 @@
   "NC": {
     "name": "North Carolina",
     "contact": "NC Dept of Agriculture & Consumer Services",
-    "email": "",
+    "email": "ncfeed.registration@ncagr.gov",
     "phone": "(919) 733-7366",
     "processingTime": "30-45 days",
     "fees": "$5/>5lb; $40/≤5lb; $12/canned; $0.12/ton",
     "requirements": [
-      "Registration Form",
+      "License Application",
       "Label/Artwork",
+      "License Renewal",
       "Tonnage Report"
     ],
-    "notes": "$10 quarterly min; Website: www.ncagr.gov",
-    "registrationFormUrl": "",
+    "notes": "Website: www.ncagr.gov",
+    "registrationFormUrl": "https://apps.ncagr.gov/AgRSysPortalV2/",
     "registrationFormFile": "",
     "deadlines": [
       {
@@ -1148,19 +1236,24 @@
   "ND": {
     "name": "North Dakota",
     "contact": "ND Dept of Agriculture",
-    "email": "",
-    "phone": "(701) 328-4756",
+    "email": "feed@nd.gov",
+    "phone": "(701) 328-2231",
     "processingTime": "30-45 days",
     "fees": "$120 new/$100 renewal biennial; $0.20/ton",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: www.nd.gov/ndda",
-    "registrationFormUrl": "$10 min",
+    "registrationFormUrl": "https://publicauth.nd.gov/6ad5bb30-924d-4733-88bb-45c24150030e/b2c_1a_ndlogin_signuporsignin/oauth2/v2.0/authorize?response_type=code&client_id=ac340887-6c00-4ce8-aeec-5b50d8684684&scope=openid%20ac340887-6c00-4ce8-aeec-5b50d8684684&state=4PqMesMY9clo7vcgrvjtKhakxejJEtRkCNwsr_eLF9U%3D&redirect_uri=https://lars.ndda.nd.gov/login/oauth2/code/azureadb2c&nonce=k_tXikg1iIPKi54p5GTj8EpB7_RYmt5tVC-IRvux7Zo",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Biennial Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       },
       {
         "title": "Tonnage Report",
@@ -1176,11 +1269,16 @@
   "OH": {
     "name": "Ohio",
     "contact": "OH Dept of Agriculture",
-    "email": "",
-    "phone": "(614) 728-6200",
+    "email": "GFS@agri.ohio.gov",
+    "phone": "(614) 728-6410",
     "processingTime": "30-45 days",
     "fees": "Permanent reg; $0.25/ton",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: agri.ohio.gov",
     "registrationFormUrl": "Permanent registration. $25 min",
     "registrationFormFile": "",
@@ -1188,7 +1286,7 @@
       {
         "title": "Tonnage H1",
         "month": 1,
-        "day": 1
+        "day": 31
       },
       {
         "title": "Tonnage H2",
@@ -1204,19 +1302,24 @@
   "OK": {
     "name": "Oklahoma",
     "contact": "OK Dept of Agriculture, Food & Forestry",
-    "email": "",
-    "phone": "(405) 522-6140",
+    "email": "Dakota.Walls@ag.ok.gov",
+    "phone": "(405) 522-5891",
     "processingTime": "30-45 days",
     "fees": "$50 license; $0.15/ton",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: ag.ok.gov",
-    "registrationFormUrl": "$10 min semiannual",
+    "registrationFormUrl": "kellysolutions.com/OK/Feed/newapplication/applynow.asp",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "License Renewal",
-        "month": 7,
-        "day": 1
+        "month": 6,
+        "day": 30
       },
       {
         "title": "Tonnage H1",
@@ -1237,13 +1340,18 @@
   "OR": {
     "name": "Oregon",
     "contact": "OR Dept of Agriculture",
-    "email": "",
-    "phone": "(503) 986-4620",
+    "email": "feed@oda.oregon.gov",
+    "phone": "(503) 986-4691",
     "processingTime": "30-45 days",
     "fees": "$150-$750 license; $40/product (most dog/cat exempt)",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: www.oregon.gov/oda",
-    "registrationFormUrl": "https://www.oregon.gov/oda/programs/animalhealthfeedslivestockid/feed/pages/feedlicensing.aspx",
+    "registrationFormUrl": "https://mylicense.oda.state.or.us/ords/f?p=106:LOGIN_DESKTOP::::::",
     "registrationFormFile": "",
     "deadlines": [
       {
@@ -1261,18 +1369,23 @@
     "name": "Pennsylvania",
     "contact": "PA Dept of Agriculture",
     "email": "ra-agfeedprogram@pa.gov",
-    "phone": "(717) 772-5215",
+    "phone": "(717) 787-4843",
     "processingTime": "30-45 days",
     "fees": "$25/license; $0.10/ton; $25 min/yr",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: www.agriculture.pa.gov",
     "registrationFormUrl": "",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "License Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       },
       {
         "title": "Tonnage Report",
@@ -1288,19 +1401,24 @@
   "RI": {
     "name": "Rhode Island",
     "contact": "RI Dept of Environmental Management",
-    "email": "",
+    "email": "ron.newman@dem.ri.gov",
     "phone": "(401) 222-2781",
     "processingTime": "30-45 days",
     "fees": "$60/product",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: dem.ri.gov",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "https://demri.my.site.com/agr/s/login/",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Registration Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       }
     ],
     "submissionMethod": "mail",
@@ -1311,19 +1429,24 @@
   "SC": {
     "name": "South Carolina",
     "contact": "SC Dept of Agriculture",
-    "email": "feed@scda.sc.gov",
-    "phone": "(803) 737-9690",
+    "email": "FEEDRegistration@scda.sc.gov",
+    "phone": "(803) 737-9700",
     "processingTime": "30-45 days",
     "fees": "$20/product; $10 late fee",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: agriculture.sc.gov",
-    "registrationFormUrl": "$10 late fee after 15 days",
+    "registrationFormUrl": "https://feedregistration.agriculture.sc.gov/Registration/",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Registration Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       }
     ],
     "submissionMethod": "mail",
@@ -1334,19 +1457,24 @@
   "SD": {
     "name": "South Dakota",
     "contact": "SD Dept of Agriculture & Natural Resources",
-    "email": "",
+    "email": "Kylie.Good@state.sd.us",
     "phone": "(605) 773-4432",
     "processingTime": "30-45 days",
     "fees": "$50 biennial; $0.10/ton; $99/pet product",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: danr.sd.gov",
-    "registrationFormUrl": "$20/report min",
+    "registrationFormUrl": "https://apps.sd.gov/doa/fdft/login.aspx",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Biennial Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       },
       {
         "title": "Tonnage Report",
@@ -1362,19 +1490,24 @@
   "TN": {
     "name": "Tennessee",
     "contact": "TN Dept of Agriculture",
-    "email": "",
+    "email": "bethany.mcanulty@tn.gov",
     "phone": "(615) 837-5148",
     "processingTime": "30-45 days",
     "fees": "$50 min/facility based on tonnage",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: www.tn.gov/agriculture",
-    "registrationFormUrl": "Fee=(tons/350)*$50",
+    "registrationFormUrl": "https://tnlcp.lcp.tracefirst.com/portal/users/sign_in",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "License Renewal",
-        "month": 7,
-        "day": 1
+        "month": 6,
+        "day": 30
       }
     ],
     "submissionMethod": "mail",
@@ -1385,17 +1518,18 @@
   "TX": {
     "name": "Texas",
     "contact": "Office of the TX State Chemist",
-    "email": "otsc@otsc.tamu.edu",
+    "email": "hjb@otsc.tamu.edu",
     "phone": "(979) 845-1121",
     "processingTime": "30-45 days",
     "fees": "$75/facility permanent; $50/≤5lb; $0.19/ton",
     "requirements": [
       "License Application",
       "Label/Artwork",
+      "License Renewal",
       "Tonnage Report"
     ],
-    "notes": "Permanent facility. $100 min annual; Website: otsc.tamu.edu",
-    "registrationFormUrl": "https://otsc.tamu.edu/",
+    "notes": "Permanent facility. $100 min annual; Website: http://otscweb.tamu.edu",
+    "registrationFormUrl": "https://otsc.tamu.edu/CompanyPortal/PortalLogin.aspx?ReturnUrl=/CompanyPortal/CompanyLogin",
     "registrationFormFile": "",
     "deadlines": [
       {
@@ -1432,19 +1566,24 @@
   "UT": {
     "name": "Utah",
     "contact": "UT Dept of Agriculture & Food",
-    "email": "",
-    "phone": "(801) 538-7100",
+    "email": "udaf-animalfeed@utah.gov",
+    "phone": "(801) 538-7123",
     "processingTime": "30-45 days",
     "fees": "$60/product/yr; $75 blender license",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: ag.utah.gov",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "https://webapp.ag.utah.gov/productRegistration/newRegistrantCustomerInfo.jsp",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Registration Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       }
     ],
     "submissionMethod": "mail",
@@ -1455,19 +1594,24 @@
   "VT": {
     "name": "Vermont",
     "contact": "VT Agency of Agriculture, Food & Markets",
-    "email": "",
+    "email": "Anita.Salvas@vermont.gov",
     "phone": "(802) 828-2431",
     "processingTime": "30-45 days",
     "fees": "$105/feed product; $35/dosage form",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: agriculture.vermont.gov",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "https://usaplants.vermont.gov/usaplants/SecurityLogin.aspx",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Registration Renewal",
-        "month": 4,
-        "day": 1
+        "month": 3,
+        "day": 31
       }
     ],
     "submissionMethod": "mail",
@@ -1478,19 +1622,24 @@
   "VA": {
     "name": "Virginia",
     "contact": "VA Dept of Agriculture & Consumer Services",
-    "email": "",
-    "phone": "(804) 786-3501",
+    "email": "caroline.wilkinson@vdacs.virginia.gov",
+    "phone": "(804) 371-2303",
     "processingTime": "30-45 days",
     "fees": "$50 license/facility; $0.07/ton; $50/brand ≤10lb",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: www.vdacs.virginia.gov",
     "registrationFormUrl": "$35/yr min",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "License Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       },
       {
         "title": "Tonnage Report",
@@ -1506,19 +1655,24 @@
   "WA": {
     "name": "Washington",
     "contact": "WA State Dept of Agriculture",
-    "email": "feeds@agr.wa.gov",
-    "phone": "(360) 902-1800",
+    "email": "petfood@agr.wa.gov",
+    "phone": "(360) 902-1876",
     "processingTime": "30-45 days",
     "fees": "$50 license; $90/pet food <10lb; $22/>10lb; $0.12/ton",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: agr.wa.gov",
     "registrationFormUrl": "$25/yr min",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "License Renewal",
-        "month": 7,
-        "day": 1
+        "month": 6,
+        "day": 30
       },
       {
         "title": "Tonnage H1",
@@ -1540,10 +1694,15 @@
     "name": "West Virginia",
     "contact": "WV Dept of Agriculture",
     "email": "",
-    "phone": "(304) 558-2210",
+    "phone": "(304) 558-2226",
     "processingTime": "30-45 days",
     "fees": "$500 guarantor; $100/>10lb; $75/≤10lb; $0.35/ton",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: agriculture.wv.gov",
     "registrationFormUrl": "$25 min",
     "registrationFormFile": "",
@@ -1577,13 +1736,18 @@
   "WI": {
     "name": "Wisconsin",
     "contact": "WI Dept of Agriculture, Trade & Consumer Protection",
-    "email": "",
+    "email": "Jordyn.johnston@wisconsin.gov",
     "phone": "(608) 224-4500",
     "processingTime": "30-45 days",
     "fees": "$25/facility; $0.25/ton; $50 min",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: datcp.wi.gov; Online applications now available. Mail to: DATCP PO Box 93598 Milwaukee WI 53293",
-    "registrationFormUrl": "$50/yr min",
+    "registrationFormUrl": "https://mydatcp3.wi.gov/services/servicedetails/1bf60013-a197-ef11-903e-00505684f46b",
     "registrationFormFile": "",
     "deadlines": [
       {
@@ -1605,19 +1769,24 @@
   "WY": {
     "name": "Wyoming",
     "contact": "WY Dept of Agriculture",
-    "email": "",
+    "email": "AGRI.PRODUCTREG@WYO.GOV",
     "phone": "(307) 777-7321",
     "processingTime": "30-45 days",
     "fees": "$40/product",
-    "requirements": [],
+    "requirements": [
+      "License Application",
+      "Label/Artwork",
+      "License Renewal",
+      "Tonnage Report"
+    ],
     "notes": "Website: wyagric.state.wy.us",
-    "registrationFormUrl": "",
+    "registrationFormUrl": "https://www.kellysolutions.com/erenewals/default.asp",
     "registrationFormFile": "",
     "deadlines": [
       {
         "title": "Registration Renewal",
-        "month": 1,
-        "day": 1
+        "month": 12,
+        "day": 31
       }
     ],
     "submissionMethod": "mail",
