@@ -8,5 +8,15 @@
     "labelFilePath": "uploads/products/feastfuls_freeze_dried_chicken/label.pdf",
     "gaFilePath": "",
     "createdAt": "2026-05-11"
+  },
+  {
+    "name": "Calming Sticks",
+    "type": "Cat Supplement",
+    "description": "",
+    "labelFile": "Calming_Sticks_Ph4.pdf",
+    "gaFile": "",
+    "labelFilePath": "uploads/products/calming_sticks/label.pdf",
+    "gaFilePath": "",
+    "createdAt": "2026-05-11"
   }
 ]
