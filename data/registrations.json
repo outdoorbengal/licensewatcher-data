@@ -455,7 +455,7 @@
       "Registration Renewal_2026": {
         "date": "2026-04-27",
         "status": "Approved",
-        "file": "OutdoorBengal · Orders · #6444 · Shopify.pdf",
+        "file": "OutdoorBengal Â· Orders Â· #6444 Â· Shopify.pdf",
         "filePath": "uploads/approvals/calming_sticks/MD/registration_renewal_2026.pdf",
         "year": 2026
       }
@@ -1017,6 +1017,1742 @@
     "documents": [],
     "notes": "",
     "createdAt": "2026-04-27",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_0",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "AL",
+    "stateName": "Alabama",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_1",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "AK",
+    "stateName": "Alaska",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 0,
+    "uploadedDocs": 0,
+    "documents": [],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_2",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "AZ",
+    "stateName": "Arizona",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_3",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "AR",
+    "stateName": "Arkansas",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_4",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "CA",
+    "stateName": "California",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 5,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Guaranteed Analysis",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "AAFCO Compliance",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_5",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "CO",
+    "stateName": "Colorado",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_6",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "CT",
+    "stateName": "Connecticut",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_7",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "DE",
+    "stateName": "Delaware",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_8",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "FL",
+    "stateName": "Florida",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_9",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "GA",
+    "stateName": "Georgia",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_10",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "HI",
+    "stateName": "Hawaii",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 0,
+    "uploadedDocs": 0,
+    "documents": [],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_11",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "ID",
+    "stateName": "Idaho",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_12",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "IL",
+    "stateName": "Illinois",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 0,
+    "uploadedDocs": 0,
+    "documents": [],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_13",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "IN",
+    "stateName": "Indiana",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_14",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "IA",
+    "stateName": "Iowa",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_15",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "KS",
+    "stateName": "Kansas",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_16",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "KY",
+    "stateName": "Kentucky",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_17",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "LA",
+    "stateName": "Louisiana",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_18",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "ME",
+    "stateName": "Maine",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_19",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "MD",
+    "stateName": "Maryland",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_20",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "MA",
+    "stateName": "Massachusetts",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_21",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "MI",
+    "stateName": "Michigan",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_22",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "MN",
+    "stateName": "Minnesota",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_23",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "MS",
+    "stateName": "Mississippi",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_24",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "MO",
+    "stateName": "Missouri",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_25",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "MT",
+    "stateName": "Montana",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_26",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "NE",
+    "stateName": "Nebraska",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 0,
+    "uploadedDocs": 0,
+    "documents": [],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_27",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "NV",
+    "stateName": "Nevada",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_28",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "NH",
+    "stateName": "New Hampshire",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_29",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "NJ",
+    "stateName": "New Jersey",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_30",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "NM",
+    "stateName": "New Mexico",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_31",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "NY",
+    "stateName": "New York",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_32",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "NC",
+    "stateName": "North Carolina",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_33",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "ND",
+    "stateName": "North Dakota",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_34",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "OH",
+    "stateName": "Ohio",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_35",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "OK",
+    "stateName": "Oklahoma",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_36",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "OR",
+    "stateName": "Oregon",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_37",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "PA",
+    "stateName": "Pennsylvania",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_38",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "RI",
+    "stateName": "Rhode Island",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_39",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "SC",
+    "stateName": "South Carolina",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_40",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "SD",
+    "stateName": "South Dakota",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_41",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "TN",
+    "stateName": "Tennessee",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_42",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "TX",
+    "stateName": "Texas",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_43",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "UT",
+    "stateName": "Utah",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_44",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "VT",
+    "stateName": "Vermont",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_45",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "VA",
+    "stateName": "Virginia",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_46",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "WA",
+    "stateName": "Washington",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_47",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "WV",
+    "stateName": "West Virginia",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_48",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "WI",
+    "stateName": "Wisconsin",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_49",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "WY",
+    "stateName": "Wyoming",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 4,
+    "uploadedDocs": 0,
+    "documents": [
+      {
+        "name": "License Application",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Label/Artwork",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "License Renewal",
+        "uploaded": false,
+        "file": null
+      },
+      {
+        "name": "Tonnage Report",
+        "uploaded": false,
+        "file": null
+      }
+    ],
+    "notes": "",
+    "createdAt": "2026-05-11",
+    "approvals": {}
+  },
+  {
+    "id": "reg_1778494553031_50",
+    "productName": "Feastfuls Freeze-Dried Chicken",
+    "productType": "Pet Treat",
+    "state": "DC",
+    "stateName": "District of Columbia",
+    "status": "Pending",
+    "deadline": "",
+    "totalDocs": 0,
+    "uploadedDocs": 0,
+    "documents": [],
+    "notes": "",
+    "createdAt": "2026-05-11",
     "approvals": {}
   }
 ]
