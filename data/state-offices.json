@@ -9,8 +9,7 @@
     "requirements": [
       "License Application",
       "Label/Artwork",
-      "License Renewal",
-      "Tonnage Report"
+      "License Renewal"
     ],
     "notes": "Website: www.agi.alabama.gov; Audits & Reports Section handles registration and tonnage",
     "registrationFormUrl": "https://alabamaagi.my.site.com/agi/s/",
@@ -20,26 +19,6 @@
         "title": "License Renewal",
         "month": 1,
         "day": 1
-      },
-      {
-        "title": "Tonnage Q1",
-        "month": 3,
-        "day": 31
-      },
-      {
-        "title": "Tonnage Q2",
-        "month": 6,
-        "day": 30
-      },
-      {
-        "title": "Tonnage Q3",
-        "month": 9,
-        "day": 30
-      },
-      {
-        "title": "Tonnage Q4",
-        "month": 12,
-        "day": 31
       }
     ],
     "submissionMethod": "mail",
