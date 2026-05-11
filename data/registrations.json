@@ -2672,7 +2672,15 @@
     ],
     "notes": "",
     "createdAt": "2026-05-11",
-    "approvals": {},
+    "approvals": {
+      "License Renewal_2026": {
+        "date": "2026-05-11",
+        "status": "Approved",
+        "file": "rptFeedSeedTreatedTimberLicenses.pdf",
+        "filePath": "uploads/approvals/calming_sticks/MO/license_renewal_2026.pdf",
+        "year": 2026
+      }
+    },
     "lastActionDate": "2026-05-11"
   },
   {
