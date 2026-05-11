@@ -1837,14 +1837,15 @@
     "productType": "Cat Supplement",
     "state": "AK",
     "stateName": "Alaska",
-    "status": "Pending",
+    "status": "Expired",
     "deadline": "",
     "totalDocs": 0,
     "uploadedDocs": 0,
     "documents": [],
     "notes": "",
     "createdAt": "2026-05-11",
-    "approvals": {}
+    "approvals": {},
+    "lastActionDate": "2026-05-11"
   },
   {
     "id": "reg_1778494722284_2",
